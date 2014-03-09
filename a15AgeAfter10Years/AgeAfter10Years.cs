@@ -11,7 +11,7 @@ namespace a15AgeAfter10Years
         static void Main()
         {
             Console.WriteLine ("Please enter Your age.");
-           int AgeNow = short.Parse(Console.ReadLine());
+           int AgeNow = int.Parse(Console.ReadLine());
             int AgeAfter = AgeNow+10;
 
                Console.Write ("Your age now:");

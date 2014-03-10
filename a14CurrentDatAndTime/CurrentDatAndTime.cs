@@ -1,13 +1,11 @@
 ﻿using System;
 
-namespace a14CurrentDatAndTime
+
+class CurrentDatAndTime
 {
-    class CurrentDatAndTime
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            DateTime now = DateTime.Now;
-            Console.WriteLine(now);
-        }
+        DateTime now = DateTime.Now;
+        Console.WriteLine(now);
     }
 }

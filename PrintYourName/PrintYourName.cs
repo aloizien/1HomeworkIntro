@@ -1,12 +1,10 @@
 ﻿using System;
 
-namespace PrintYourName
+class PrintYourName
 {
-    class PrintYourName
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Georgi Hristov");
-        }
+        Console.WriteLine("Georgi Hristov");
     }
 }
+

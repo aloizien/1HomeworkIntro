@@ -1,24 +1,21 @@
 ﻿using System;
 
-namespace a16PrintLongSequence
+
+class PrintLongSequence
 {
-    class PrintLongSequence
+    static void Main()
     {
-        static void Main()
+        for (int i = 2; i < 1003; i++)
         {
-            for (int i=2; i<1003; i++)
+            if (i % 2 == 0)
             {
-               if (i % 2 == 0)
-               {
-                   Console.Write(i); Console.Write(",");
-               }
-                   
-                else 
-               {
-                   Console.Write(i*-1); Console.Write(",");
-               }
-                    
+                Console.Write(i); Console.Write(",");
             }
+            else
+            {
+                Console.Write(i * -1); Console.Write(",");
+            }
+
         }
     }
 }

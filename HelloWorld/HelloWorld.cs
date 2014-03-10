@@ -1,13 +1,8 @@
 ﻿using System;
-
-namespace HelloWorld
+class HelloWorld
 {
-    class HelloWorld
-
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello C#");
-        }
+        Console.WriteLine("Hello C#");
     }
 }

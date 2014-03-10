@@ -1,12 +1,9 @@
 ﻿using System;
 
-namespace Print_Numbers
+class PrintNumbers
 {
-    class PrintNumbers
+    static void Main()
     {
-        static void Main(string[] args)
-        {
             Console.WriteLine("1\n101\n1001");
-        }
     }
 }

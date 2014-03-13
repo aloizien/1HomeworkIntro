@@ -3,27 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Windows Desktop
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4HelloWorld", "HelloWorld\4HelloWorld.csproj", "{845EB7F7-691F-432E-9312-6E3C7DF0FFF7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.HelloWorld", "04.HelloWorld\4HelloWorld.csproj", "{845EB7F7-691F-432E-9312-6E3C7DF0FFF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5PrintYourName", "PrintYourName\5PrintYourName.csproj", "{136D676B-3002-4C65-B739-72CE492F5836}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PrintYourName", "05.PrintYourName\5PrintYourName.csproj", "{136D676B-3002-4C65-B739-72CE492F5836}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6Print Numbers", "Print Numbers\6Print Numbers.csproj", "{B4E3CC6F-96A7-44F9-AED9-61FB4ABA3926}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Print Numbers", "06.Print Numbers\6Print Numbers.csproj", "{B4E3CC6F-96A7-44F9-AED9-61FB4ABA3926}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7PrintFirstAndLastName", "PrintFirstAndLastName\7PrintFirstAndLastName.csproj", "{0F238914-02D2-419E-BB59-D53CF600AA99}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.PrintFirstAndLastName", "07.PrintFirstAndLastName\7PrintFirstAndLastName.csproj", "{0F238914-02D2-419E-BB59-D53CF600AA99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8SquareRoot", "SquareRoot\8SquareRoot.csproj", "{BB238178-926D-48DD-8455-47F15C7720CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.SquareRoot", "08.SquareRoot\8SquareRoot.csproj", "{BB238178-926D-48DD-8455-47F15C7720CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9PrintaSequence", "9PrintaSequence\9PrintaSequence.csproj", "{059EFBC8-EBDA-4D25-99D4-CA5A31A5CAD4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PrintaSequence", "09.PrintaSequence\9PrintaSequence.csproj", "{059EFBC8-EBDA-4D25-99D4-CA5A31A5CAD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a10ReformatCode", "10ReformatCode\a10ReformatCode.csproj", "{1A066CD7-317D-4D6B-9CA6-3418FF7C4ACC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ReformatCode", "10.ReformatCode\a10ReformatCode.csproj", "{1A066CD7-317D-4D6B-9CA6-3418FF7C4ACC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a11-13TEXT", "programming-languages\a11-13TEXT.csproj", "{2FC4BCE2-213D-478F-8853-2BFB0093D64E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a14CurrentDatAndTime", "a14CurrentDatAndTime\a14CurrentDatAndTime.csproj", "{8AB34444-9794-4FAB-9B18-33133B98D6D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.CurrentDatAndTime", "14.CurrentDatAndTime\a14CurrentDatAndTime.csproj", "{8AB34444-9794-4FAB-9B18-33133B98D6D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a15AgeAfter10Years", "a15AgeAfter10Years\a15AgeAfter10Years.csproj", "{34E30334-36E7-4E4E-A0D5-8886E002B5FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.AgeAfter10Years", "15.AgeAfter10Years\a15AgeAfter10Years.csproj", "{34E30334-36E7-4E4E-A0D5-8886E002B5FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a16PrintLongSequence", "a16PrintLongSequence\a16PrintLongSequence.csproj", "{3597695C-8D7B-47ED-AC5B-3D0D97ED0931}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.PrintLongSequence", "16.PrintLongSequence\a16PrintLongSequence.csproj", "{3597695C-8D7B-47ED-AC5B-3D0D97ED0931}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +75,10 @@ Global
 		{3597695C-8D7B-47ED-AC5B-3D0D97ED0931}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3597695C-8D7B-47ED-AC5B-3D0D97ED0931}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3597695C-8D7B-47ED-AC5B-3D0D97ED0931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C67E5E05-C808-4717-8B8F-ED5352DEBF84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67E5E05-C808-4717-8B8F-ED5352DEBF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67E5E05-C808-4717-8B8F-ED5352DEBF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67E5E05-C808-4717-8B8F-ED5352DEBF84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
